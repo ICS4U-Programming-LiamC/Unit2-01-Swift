@@ -1,0 +1,5 @@
+A random string with spaces
+
+One. Two. Three. Four. This is a string with many capitals.
+123456789, numbers
+!@#$%^&*()?":<>{}|[]\;',./-=_+`~
